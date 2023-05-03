@@ -1,9 +1,14 @@
-a = 4
-b = 5
-a+b=c
-pront(c)
+def addition():
+    one = 2
+    two = 3
+    summf = one + two
 
-a = 5
-b = 6
-a-b=c
-print(c)
+    print(summf)
+
+
+def subtraction():
+    one = 2
+    two = 3
+    sub = one - two
+
+    print(sub)
